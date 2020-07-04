@@ -741,3 +741,7 @@ input[type="button"]:hover, input[type="submit"]:hover, input[type="reset"]:hove
 	padding-left: 0.5em;
 	color: white;
 }
+
+.apply:hover{
+	background-color: #cececebe;
+}
