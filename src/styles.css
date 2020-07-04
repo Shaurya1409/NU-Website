@@ -165,7 +165,7 @@ body {
 
 .card {
 	width: 18em;
-	background: #FFFFFF;
+	background: #ffffff00;
 	border-radius: 10px;
 }
 
@@ -725,4 +725,19 @@ input[type="button"]:hover, input[type="submit"]:hover, input[type="reset"]:hove
 
 .dropdown-content a:hover {
 	background-color: #f1f1f1
+}
+
+.apply{
+	background-color: #000000be;
+	border-radius: 25px 0px 0px 25px;
+	position: fixed;
+	z-index: 100;
+	right: 0%;
+	top: 5%;;
+	border: solid white 1px;
+}
+
+.apply a{
+	padding-left: 0.5em;
+	color: white;
 }
