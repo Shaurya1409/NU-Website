@@ -2,11 +2,17 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { HomePageComponent } from './home-page/home-page.component'
 import { AdmissionsComponent } from './admissions/admissions.component'
+import { CSEComponent } from './cse/cse.component';
+import { EceComponent } from './ece/ece.component';
+import { BioComponent } from './bio/bio.component';
 
 
 const routes: Routes = [
   {path: '', component:HomePageComponent},
-  {path: 'admissions', component: AdmissionsComponent}
+  {path: 'admissions', component: AdmissionsComponent},
+  {path: 'cse', component: CSEComponent},
+  {path: 'ece', component: EceComponent},
+  {path: 'bio', component: BioComponent}
 ];
 
 @NgModule({
