@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "NUWeb"
+    }
+  },
+  "defaultProject": "NUWeb",
+  "cli": {
+    "analytics": "226dfa71-eb86-4bb5-8e7f-accafe5cf8a7"
+  }
 }

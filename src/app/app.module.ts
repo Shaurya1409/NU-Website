@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { AdmissionsComponent } from './admissions/admissions.component';
 import { HomePageComponent } from './home-page/home-page.component';
+import { WhyNUComponent } from './why-nu/why-nu.component';
 import { CSEComponent } from './cse/cse.component';
 import { EceComponent } from './ece/ece.component';
 import { BioComponent } from './bio/bio.component';
@@ -14,6 +15,7 @@ import { BioComponent } from './bio/bio.component';
     AppComponent,
     AdmissionsComponent,
     HomePageComponent,
+    WhyNUComponent,
     CSEComponent,
     EceComponent,
     BioComponent,
