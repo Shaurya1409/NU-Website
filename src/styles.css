@@ -25,7 +25,15 @@ body {
 }
 
 body::-webkit-scrollbar {
-	display: none;
+	width: 0.3em;
+}
+
+body::-webkit-scrollbar-thumb {
+	background: #ef4424;
+}
+
+body::-webkit-scrollbar-track {
+	background: black;
 }
 
 body {
