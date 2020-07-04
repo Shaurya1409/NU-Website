@@ -51,31 +51,31 @@
     box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .37);
     transform: translate3d(30%, 0, -200px);
   }
-/*   
+   
   #slide1 {
-    background: url(".../assets/images/IBM.png");
+    background: url("../../assets/images/IBM.png");
     background-size: 100% 100%;
   }
   
   #slide2 {
-    background: url(".../assets/images/Amazon.jpg");
+    background: url("../../assets/images/Amazon.jpg");
     background-size: 100% 100%;
   }
   
   #slide3 {
-    background: url(".../assets/images/Audi-Logo.jpg");
+    background: url("../../assets/images/Audi-Logo.jpg");
     background-size: 100% 100%;
   }
   
   #slide4 {
-    background: url(".../assets/images/ICICI.jpg");
+    background: url("../../assets/images/ICICI.jpg");
     background-size: 100% 100%;
   }
   
   #slide5 {
-    background: url(".../assets/images/Intel.png");
+    background: url("../../assets/images/Intel.png");
     background-size: 100% 100%;
-  } */
+  }
   
   .container-circle {
     display: flex;
