@@ -489,6 +489,7 @@ input[type="button"]:hover, input[type="submit"]:hover, input[type="reset"]:hove
 	display: none;
 }
 
+<<<<<<< HEAD
 #nav>ul>li>span, #nav>ul>li>a {
 	color: #fff;
 	text-decoration: none;
@@ -503,6 +504,15 @@ input[type="button"]:hover, input[type="submit"]:hover, input[type="reset"]:hove
 	-ms-transition: border-color 0.25s ease-in-out, background-color 0.25s ease-in-out;
 	transition: border-color 0.25s ease-in-out, background-color 0.25s ease-in-out;
 }
+=======
+	.wrapper {
+		position: relative;
+		background: #fff;
+		overflow-x: hidden;
+		overflow-y: hidden;
+		padding: 2em 0 1em 0;
+	}
+>>>>>>> 2ea91c9cfd7ca4e329ec74365fdf1b845dd66203
 
 #nav>ul>li.active>span, #nav>ul>li.active>a {
 	border-color: rgba(255, 255, 255, 0.75);
