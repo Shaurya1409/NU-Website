@@ -20,9 +20,9 @@ const routes: Routes = [
   {path: 'ece', component: EceComponent},
   {path: 'bio', component: BioComponent},
   {path: 'placements', component: PlacementsComponent},
-  {path: 'why', component: WhyComponent},
-  {path: 'testimonials', component: TestimonialsComponent},
-  {path: 'narratives', component: NarrativesComponent}
+  {path: 'whyNU/why', component: WhyComponent},
+  {path: 'whyNU/testimonials', component: TestimonialsComponent},
+  {path: 'whyNU/narratives', component: NarrativesComponent}
 ];
 
 @NgModule({
