@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "mdp-nu-webapp"
+  },
+  "targets": {
+    "mdp-nu-webapp": {
+      "hosting": {
+        "NUWeb": [
+          "mdp-nu-webapp"
+        ]
+      }
+    }
   }
 }

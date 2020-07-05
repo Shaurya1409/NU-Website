@@ -46,15 +46,15 @@
     border-radius: 10px;
 }
 
-.templateCS:hover{
+.templateWHY:hover{
     transform: translateY(-3px) scale(1.03);
 }
 
-.templateECE:hover{
+.templateTESTIMONIALS:hover{
     transform: translateY(-3px) scale(1.03);
 }
 
-.templateBio:hover{
+.templateNARRATIVES:hover{
     transform: translateY(-3px) scale(1.03);
 }
 
