@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 # NUWeb
+
+This is our reimagined website for NIIT University. Kindly run `npm install` after downloading. This is necessary to obtain all dependencies before the first run. The website is also available at (https://mdp-nu-webapp.web.app/).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
 
@@ -26,7 +27,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
-# NU-Website
-This is a website we are making for our MDP Project.
->>>>>>> 8a7b1b5d59ffa32a4712a7cc64639f50af1bf7dc
