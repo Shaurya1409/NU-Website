@@ -11,6 +11,7 @@ import { BioComponent } from './bio/bio.component';
 import { WhyComponent } from './why/why.component';
 import { TestimonialsComponent } from './testimonials/testimonials.component';
 import { NarrativesComponent } from './narratives/narratives.component';
+import { PlacementsComponent } from './placements/placements.component';
 
 @NgModule({
   declarations: [
@@ -24,6 +25,7 @@ import { NarrativesComponent } from './narratives/narratives.component';
     WhyComponent,
     TestimonialsComponent,
     NarrativesComponent,
+    PlacementsComponent,
   ],
   imports: [
     BrowserModule,

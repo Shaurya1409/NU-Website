@@ -6,6 +6,10 @@ import { WhyNUComponent } from './why-nu/why-nu.component';
 import { CSEComponent } from './cse/cse.component';
 import { EceComponent } from './ece/ece.component';
 import { BioComponent } from './bio/bio.component';
+import { PlacementsComponent } from './placements/placements.component';
+import { WhyComponent } from './why/why.component';
+import { TestimonialsComponent } from './testimonials/testimonials.component';
+import { NarrativesComponent } from './narratives/narratives.component';
 
 
 const routes: Routes = [
@@ -14,7 +18,11 @@ const routes: Routes = [
   {path: 'whyNU', component: WhyNUComponent},
   {path: 'cse', component: CSEComponent},
   {path: 'ece', component: EceComponent},
-  {path: 'bio', component: BioComponent}
+  {path: 'bio', component: BioComponent},
+  {path: 'placements', component: PlacementsComponent},
+  {path: 'why', component: WhyComponent},
+  {path: 'testimonials', component: TestimonialsComponent},
+  {path: 'narratives', component: NarrativesComponent}
 ];
 
 @NgModule({
